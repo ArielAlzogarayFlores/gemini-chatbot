@@ -1,2 +1,2 @@
-# gemini-chat-bot
+# Gemini Chatbot
  Simple testing of Gemini AI
